@@ -1,0 +1,25 @@
+body{
+    background-color: lightgreen;
+}
+.one{
+    background-color: white;    
+    height: 600px;    
+    margin-left:230px;
+    margin-top: 50px;
+    text-align: center;  
+    width:70%;
+}
+h3{
+    color: white;
+}
+table{
+    border-collapse: collapse;     
+    height: 600px;  
+    width:100%;
+}
+tbody tr{
+    border:1px solid lightgreen;
+}
+thead{
+    background-color: yellow;
+}
